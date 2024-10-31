@@ -72,14 +72,14 @@ a{
 
 @keyframes pic{
   0%{
-    border-color: brown;
+    border-color: rgb(134, 43, 43);
     transform: translate(0,0px,);
-    box-shadow: 10px 10px 100px 50px brown;
+    box-shadow: 10px 10px 100px 50px rgb(110, 46, 46);
   }
   25%{
-    border-color: rgb(229, 167, 11);
+    border-color: rgb(158, 142, 101);
     transform: translate(0,0px,);
-    box-shadow: 10px 10px 100px 50px rgb(229, 167, 11);
+    box-shadow: 10px 10px 100px 50px rgb(158, 142, 101);
   }
   50%{
     border-color: rgb(119, 30, 30);
